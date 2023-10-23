@@ -1,0 +1,29 @@
+{
+    "routines": [
+      { "id": 1, "name": "rutina 1", "description": "lorem ipsum", "lenght": 20, "type": "Piernas", "difficulty": "Medio", "equipment": false, "score": 4, "image" : "", "exercise":[
+        { "id": 1, "name": "ejercicio 1", "image": "1", "reps": 10, "video": "" },
+        { "id": 2, "name": "ejercicio 1", "image": "1", "reps": 10, "video": "" },
+        { "id": 3, "name": "ejercicio 1", "image": "1", "reps": 10, "video": "" }
+      ] },
+      { "id": 2, "name": "rutina 2", "description": "lorem ipsum", "lenght": 20, "type": "Brazos", "difficulty": "Medio", "equipment": false, "score": 4, "image" : "", "exercise":[
+        { "id": 1, "name": "ejercicio 1", "image": "1", "reps": 10, "video": "" },
+        { "id": 2, "name": "ejercicio 1", "image": "1", "reps": 10, "video": "" },
+        { "id": 3, "name": "ejercicio 1", "image": "1", "reps": 10, "video": "" }
+      ] },
+      { "id": 3, "name": "rutina 3", "description": "lorem ipsum", "lenght": 20, "type": "Pecho", "difficulty": "Medio", "equipment": false, "score": 4, "image" : "","exercise":[
+        { "id": 1, "name": "ejercicio 1", "image": "1", "reps": 10, "video": "" },
+        { "id": 2, "name": "ejercicio 1", "image": "1", "reps": 10, "video": "" },
+        { "id": 3, "name": "ejercicio 1", "image": "1", "reps": 10, "video": "" }
+      ] },
+      { "id": 4, "name": "rutina 4", "description": "lorem ipsum", "lenght": 20, "type": "Piernas", "difficulty": "Medio", "equipment": false, "score": 4, "image" : "","exercise":[
+        { "id": 1, "name": "ejercicio 1", "image": "1", "reps": 10, "video": "" },
+        { "id": 2, "name": "ejercicio 1", "image": "1", "reps": 10, "video": "" }
+      ] }
+    ],
+    "exercise": [
+      { "id": 1, "name": "ejercicio 1", "image": "1", "reps": 10, "video": "" },
+      { "id": 2, "name": "ejercicio 1", "image": "1", "reps": 10, "video": "" },
+      { "id": 3, "name": "ejercicio 1", "image": "1", "reps": 10, "video": "" }
+    ],
+    "profile": { "name": "typicode" }
+  }
