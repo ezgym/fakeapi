@@ -1,50 +1,192 @@
 {
-    "routines": [
-      { "id": 1, "name": "rutina 1", "description": "lorem ipsum", "lenght": 20, "type": "Piernas", "difficulty": "Medio", "equipment": true, "score": 4, "image" : "https://www.anytimefitness.co.in/wp-content/uploads/2023/03/Gym-Routine.jpg", "exercise":[
-        { "id": 1, "name": "ejercicio 1", "image": "https://images.hola.com/imagenes/estar-bien/20210623191940/ejercicios-para-adelgazar-piernas/0-967-576/ejercicios-piernas-m.jpg", "reps": 10, "video": "" },
-        { "id": 2, "name": "ejercicio 2", "image": "https://images.hola.com/imagenes/estar-bien/20210623191940/ejercicios-para-adelgazar-piernas/0-967-576/ejercicios-piernas-m.jpg", "reps": 10, "video": "" },
-        { "id": 3, "name": "ejercicio 3", "image": "https://images.hola.com/imagenes/estar-bien/20210623191940/ejercicios-para-adelgazar-piernas/0-967-576/ejercicios-piernas-m.jpg", "reps": 10, "video": "" }
-      ] 
+  "routines": [
+    {
+      "id": 1,
+      "name": "rutina 1",
+      "description": "lorem ipsum",
+      "lenght": 20,
+      "type": "Piernas",
+      "difficulty": "Medio",
+      "equipment": true,
+      "score": 5,
+      "image": "https://www.anytimefitness.co.in/wp-content/uploads/2023/03/Gym-Routine.jpg",
+      "exercise": [
+        {
+          "id": 1,
+          "name": "ejercicio 1",
+          "image": "https://images.hola.com/imagenes/estar-bien/20210623191940/ejercicios-para-adelgazar-piernas/0-967-576/ejercicios-piernas-m.jpg",
+          "reps": 10,
+          "video": ""
+        },
+        {
+          "id": 2,
+          "name": "ejercicio 2",
+          "image": "https://images.hola.com/imagenes/estar-bien/20210623191940/ejercicios-para-adelgazar-piernas/0-967-576/ejercicios-piernas-m.jpg",
+          "reps": 10,
+          "video": ""
+        },
+        {
+          "id": 3,
+          "name": "ejercicio 3",
+          "image": "https://images.hola.com/imagenes/estar-bien/20210623191940/ejercicios-para-adelgazar-piernas/0-967-576/ejercicios-piernas-m.jpg",
+          "reps": 10,
+          "video": ""
+        }
+      ]
     },
-      { "id": 2, "name": "rutina 2", "description": "lorem ipsum", "lenght": 20, "type": "Brazos", "difficulty": "Medio", "equipment": false, "score": 4, "image" : "https://www.anytimefitness.co.in/wp-content/uploads/2023/03/Gym-Routine.jpg", "exercise":[
-        { "id": 1, "name": "ejercicio 1", "image": "https://www.runtastic.com/blog/wp-content/uploads/2017/02/4M9A4644.jpg", "reps": 10, "video": "" },
-        { "id": 2, "name": "ejercicio 2", "image": "https://www.runtastic.com/blog/wp-content/uploads/2017/02/4M9A4644.jpg", "reps": 10, "video": "" },
-        { "id": 3, "name": "ejercicio 3", "image": "https://www.runtastic.com/blog/wp-content/uploads/2017/02/4M9A4644.jpg", "reps": 10, "video": "" }
-      ] 
-     },
-      { "id": 3, "name": "rutina 3", "description": "lorem ipsum", "lenght": 20, "type": "Pecho", "difficulty": "Medio", "equipment": false, "score": 4, "image" : "https://www.anytimefitness.co.in/wp-content/uploads/2023/03/Gym-Routine.jpg","exercise":[
-        { "id": 1, "name": "ejercicio 1", "image": "https://farmalastic.cinfa.com/wp-content/uploads/600x354_ART-1_Ejercicios-para-fortalecer-la-espalda-1.jpg", "reps": 10, "video": "" },
-        { "id": 2, "name": "ejercicio 2", "image": "https://farmalastic.cinfa.com/wp-content/uploads/600x354_ART-1_Ejercicios-para-fortalecer-la-espalda-1.jpg", "reps": 10, "video": "" },
-        { "id": 3, "name": "ejercicio 3", "image": "https://farmalastic.cinfa.com/wp-content/uploads/600x354_ART-1_Ejercicios-para-fortalecer-la-espalda-1.jpg", "reps": 10, "video": "" }
-      ] 
-     },
-      { "id": 4, "name": "rutina 4", "description": "lorem ipsum", "lenght": 20, "type": "Piernas", "difficulty": "Medio", "equipment": false, "score": 4, "image" : "https://www.anytimefitness.co.in/wp-content/uploads/2023/03/Gym-Routine.jpg","exercise":[
-        { "id": 1, "name": "ejercicio 1", "image": "https://media.gq.com.mx/photos/611fbbddfde8c9b5f40c24f2/16:9/w_2560%2Cc_limit/press%2520mancuernas-1056610648.jpg", "reps": 10, "video": "" },
-        { "id": 2, "name": "ejercicio 2", "image": "https://media.gq.com.mx/photos/611fbbddfde8c9b5f40c24f2/16:9/w_2560%2Cc_limit/press%2520mancuernas-1056610648.jpg", "reps": 10, "video": "" }
-      ]      
+    {
+      "id": 2,
+      "name": "rutina 2",
+      "description": "lorem ipsum",
+      "lenght": 20,
+      "type": "Brazos",
+      "difficulty": "Medio",
+      "equipment": false,
+      "score": 4,
+      "image": "https://www.anytimefitness.co.in/wp-content/uploads/2023/03/Gym-Routine.jpg",
+      "exercise": [
+        {
+          "id": 1,
+          "name": "ejercicio 1",
+          "image": "https://www.runtastic.com/blog/wp-content/uploads/2017/02/4M9A4644.jpg",
+          "reps": 10,
+          "video": ""
+        },
+        {
+          "id": 2,
+          "name": "ejercicio 2",
+          "image": "https://www.runtastic.com/blog/wp-content/uploads/2017/02/4M9A4644.jpg",
+          "reps": 10,
+          "video": ""
+        },
+        {
+          "id": 3,
+          "name": "ejercicio 3",
+          "image": "https://www.runtastic.com/blog/wp-content/uploads/2017/02/4M9A4644.jpg",
+          "reps": 10,
+          "video": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "rutina 3",
+      "description": "lorem ipsum",
+      "lenght": 20,
+      "type": "Pecho",
+      "difficulty": "Medio",
+      "equipment": false,
+      "score": 4,
+      "image": "https://www.anytimefitness.co.in/wp-content/uploads/2023/03/Gym-Routine.jpg",
+      "exercise": [
+        {
+          "id": 1,
+          "name": "ejercicio 1",
+          "image": "https://farmalastic.cinfa.com/wp-content/uploads/600x354_ART-1_Ejercicios-para-fortalecer-la-espalda-1.jpg",
+          "reps": 10,
+          "video": ""
+        },
+        {
+          "id": 2,
+          "name": "ejercicio 2",
+          "image": "https://farmalastic.cinfa.com/wp-content/uploads/600x354_ART-1_Ejercicios-para-fortalecer-la-espalda-1.jpg",
+          "reps": 10,
+          "video": ""
+        },
+        {
+          "id": 3,
+          "name": "ejercicio 3",
+          "image": "https://farmalastic.cinfa.com/wp-content/uploads/600x354_ART-1_Ejercicios-para-fortalecer-la-espalda-1.jpg",
+          "reps": 10,
+          "video": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "rutina 4",
+      "description": "lorem ipsum",
+      "lenght": 20,
+      "type": "Piernas",
+      "difficulty": "Medio",
+      "equipment": false,
+      "score": 4,
+      "image": "https://www.anytimefitness.co.in/wp-content/uploads/2023/03/Gym-Routine.jpg",
+      "exercise": [
+        {
+          "id": 1,
+          "name": "ejercicio 1",
+          "image": "https://media.gq.com.mx/photos/611fbbddfde8c9b5f40c24f2/16:9/w_2560%2Cc_limit/press%2520mancuernas-1056610648.jpg",
+          "reps": 10,
+          "video": ""
+        },
+        {
+          "id": 2,
+          "name": "ejercicio 2",
+          "image": "https://media.gq.com.mx/photos/611fbbddfde8c9b5f40c24f2/16:9/w_2560%2Cc_limit/press%2520mancuernas-1056610648.jpg",
+          "reps": 10,
+          "video": ""
+        }
+      ]
     }
-    ],
-    "exercise": [
-      { "id": 1, "name": "ejercicio 1", "image": "1", "reps": 10, "video": "" },
-      { "id": 2, "name": "ejercicio 2", "image": "1", "reps": 10, "video": "" },
-      { "id": 3, "name": "ejercicio 3", "image": "1", "reps": 10, "video": "" }
-    ],
-    "profile": [
-      { 
-        "id": 1,"name": "Maria", "surname": "Arias", "email": "mail@gmail.com", "phone": "123456", "photo": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg",
-        "subscription":{
-          "id": 1, "type":"Mensual", "start":"09/10/2023", "end": "09/11/2023"
-        }
-      },
-      { 
-        "id": 2,"name": "Juan Carlos", "surname": "Bodoque", "email": "bodoque@gmail.com", "phone": "1234567", "photo": "https://static.wikia.nocookie.net/31minutos/images/1/1a/31minutos5.png",
-        "subscription":{
-          "id": 1, "type":"Anual", "start":"09/10/2023", "end": "09/10/2024"
-        }
-      }
   ],
-
-    "subscription":{
-      "id": 1, "type":"", "start":"", "end": ""
+  "exercise": [
+    {
+      "id": 1,
+      "name": "ejercicio 1",
+      "image": "1",
+      "reps": 10,
+      "video": ""
+    },
+    {
+      "id": 2,
+      "name": "ejercicio 2",
+      "image": "1",
+      "reps": 10,
+      "video": ""
+    },
+    {
+      "id": 3,
+      "name": "ejercicio 3",
+      "image": "1",
+      "reps": 10,
+      "video": ""
     }
+  ],
+  "profile": [
+    {
+      "id": 1,
+      "name": "Maria",
+      "surname": "Arias",
+      "email": "mail@gmail.com",
+      "phone": "123456",
+      "photo": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg",
+      "subscription": {
+        "id": 1,
+        "type": "Mensual",
+        "start": "09/10/2023",
+        "end": "09/11/2023"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Juan Carlos",
+      "surname": "Bodoque",
+      "email": "bodoque@gmail.com",
+      "phone": "1234567",
+      "photo": "https://static.wikia.nocookie.net/31minutos/images/1/1a/31minutos5.png",
+      "subscription": {
+        "id": 1,
+        "type": "Anual",
+        "start": "09/10/2023",
+        "end": "09/10/2024"
+      }
+    }
+  ],
+  "subscription": {
+    "id": 1,
+    "type": "",
+    "start": "",
+    "end": ""
   }
+}
