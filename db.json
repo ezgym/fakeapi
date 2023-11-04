@@ -1,6 +1,6 @@
 {
     "routines": [
-      { "id": 1, "name": "rutina 1", "description": "lorem ipsum", "lenght": 20, "type": "Piernas", "difficulty": "Medio", "equipment": false, "score": 4, "image" : "https://www.anytimefitness.co.in/wp-content/uploads/2023/03/Gym-Routine.jpg", "exercise":[
+      { "id": 1, "name": "rutina 1", "description": "lorem ipsum", "lenght": 20, "type": "Piernas", "difficulty": "Medio", "equipment": true, "score": 4, "image" : "https://www.anytimefitness.co.in/wp-content/uploads/2023/03/Gym-Routine.jpg", "exercise":[
         { "id": 1, "name": "ejercicio 1", "image": "1", "reps": 10, "video": "" },
         { "id": 2, "name": "ejercicio 1", "image": "1", "reps": 10, "video": "" },
         { "id": 3, "name": "ejercicio 1", "image": "1", "reps": 10, "video": "" }
